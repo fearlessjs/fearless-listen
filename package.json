@@ -1,0 +1,24 @@
+{
+  "name": "@fearless/listen",
+  "description": "Simple listen middleware",
+  "version": "0.1.0",
+  "author": "Rodrigo Oler <https://github.com/rodrigooler>",
+  "bugs": {
+    "url": "https://github.com/fearlessjs/listen/issues"
+  },
+  "homepage": "https://github.com/fearlessjs/listen#readme",
+  "keywords": [
+    "fearless",
+    "javascript",
+    "listen",
+    "middleware",
+    "nodejs",
+    "port"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fearlessjs/listen.git"
+  }
+}
